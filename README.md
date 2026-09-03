@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Yuta Takenaka`
+- **CCID:** `ytakenak`
 
 ## References and Resources
 N/A
